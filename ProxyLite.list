@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,hsreplay.net
 DOMAIN-SUFFIX,jvrlibrary
 DOMAIN-SUFFIX,2fa.run
+DOMAIN-SUFFIX,ghp.ci
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
