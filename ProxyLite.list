@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,hsreplay.net
 DOMAIN-SUFFIX,jvrlibrary
 DOMAIN-SUFFIX,2fa.run
 DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,githubusercontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,wnflb
